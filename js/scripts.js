@@ -72,6 +72,6 @@ $(document).ready(function() {
   });
 
   $("button#att").click(function() {
-    alert("JavaScript- defintion.");
+    alert("Attributes- a collection of objects that belong to a built-in Attr class, with name and value properties.");
   }); 
 });
